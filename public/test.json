@@ -1,0 +1,4459 @@
+{
+  "startTime": "2022/02/21",
+  "courses": [
+    {
+      "courseShortName": "游1L1",
+      "courseName": "游戏程序设计",
+      "courseTeacherName": "单武扬",
+      "courseHour": "32",
+      "courseCredit": "3",
+      "courseRoom": "6A209",
+      "courseRemark": "同学们准备一台配置不太过时的电脑，复习数字图像处理、计算机图形学，预习Csharp将有利于提升学习效果。"
+    },
+    {
+      "courseShortName": "游1R1",
+      "courseName": "[实]游戏程序设计",
+      "courseTeacherName": "单武扬",
+      "courseHour": "16",
+      "courseCredit": "3",
+      "courseRoom": "75-05-35-C075-05-35",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "P1L1",
+      "courseName": "Python语言程序设计",
+      "courseTeacherName": "廖晓鹃",
+      "courseHour": "24",
+      "courseCredit": "2",
+      "courseRoom": "6A102",
+      "courseRemark": "本课程受学时限制，只讲Python基础语法，不涉及项目开发和大型实践案例。"
+    },
+    {
+      "courseShortName": "P1R2",
+      "courseName": "[实]Python语言程序设计",
+      "courseTeacherName": "张辉,李启飞",
+      "courseHour": "8",
+      "courseCredit": "2",
+      "courseRoom": "75-05-32-C075-05-32",
+      "courseRemark": "三班学号靠后的15人选R02班"
+    },
+    {
+      "courseShortName": "现L6",
+      "courseName": "现代社会经济活动",
+      "courseTeacherName": "魏奇锋",
+      "courseHour": "32",
+      "courseCredit": "2",
+      "courseRoom": "E1A208",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "嵌1L1",
+      "courseName": "嵌入式系统",
+      "courseTeacherName": "赖武刚",
+      "courseHour": "40",
+      "courseCredit": "3.5",
+      "courseRoom": "6A102",
+      "courseRemark": "实验课排在6B602"
+    },
+    {
+      "courseShortName": "嵌1R2",
+      "courseName": "[实]嵌入式系统",
+      "courseTeacherName": "赖武刚",
+      "courseHour": "16",
+      "courseCredit": "3.5",
+      "courseRoom": "75-04-34-C075-04-34",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "创L7",
+      "courseName": "创业就业指导",
+      "courseTeacherName": "郑乃菡",
+      "courseHour": "16",
+      "courseCredit": "1",
+      "courseRoom": "6A104",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "毛1L5",
+      "courseName": "毛泽东思想和中国特色社会主义理论体系概论",
+      "courseTeacherName": "李向前",
+      "courseHour": "72",
+      "courseCredit": "5",
+      "courseRoom": "E1A104",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "毛1X1",
+      "courseName": "[实]毛泽东思想和中国特色社会主义理论体系概论",
+      "courseTeacherName": "廖怀高",
+      "courseHour": "0.50",
+      "courseCredit": "5",
+      "courseRoom": "01校内10(教师指定)-内0110(教师指定)",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "形L2",
+      "courseName": "形势与政策（6）",
+      "courseTeacherName": "汤晓颖",
+      "courseHour": "8",
+      "courseCredit": ".25",
+      "courseRoom": "6A202",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "软2L1",
+      "courseName": "软件项目管理",
+      "courseTeacherName": "宁进",
+      "courseHour": "24",
+      "courseCredit": "2",
+      "courseRoom": "E2A501",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "软2R1",
+      "courseName": "[实]软件项目管理",
+      "courseTeacherName": "宁进,吴旭",
+      "courseHour": "8",
+      "courseCredit": "2",
+      "courseRoom": "75-05-37-C075-05-37",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "WX1",
+      "courseName": "[实]Web应用开发课程设计",
+      "courseTeacherName": "刘恒",
+      "courseHour": "0",
+      "courseCredit": "1",
+      "courseRoom": "75-05-32-C075-05-32",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "软1L1",
+      "courseName": "软件测试与验证",
+      "courseTeacherName": "张芬,欧鸥",
+      "courseHour": "24",
+      "courseCredit": "2",
+      "courseRoom": "E2A401",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "软1R1",
+      "courseName": "[实]软件测试与验证",
+      "courseTeacherName": "张芬,欧鸥",
+      "courseHour": "8",
+      "courseCredit": "2",
+      "courseRoom": "75-05-38-C075-05-38",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "L1L2",
+      "courseName": "Linux操作系统",
+      "courseTeacherName": "李军",
+      "courseHour": "20",
+      "courseCredit": "2",
+      "courseRoom": "E1B404",
+      "courseRemark": "无"
+    },
+    {
+      "courseShortName": "L1R2",
+      "courseName": "[实]Linux操作系统",
+      "courseTeacherName": "李军",
+      "courseHour": "12",
+      "courseCredit": "2",
+      "courseRoom": "75-05-37-C075-05-37,75-05-38-C075-05-37",
+      "courseRemark": "无"
+    }
+  ],
+  "lessons": [
+    [
+      {
+        "date": "2022/02/21",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "创L7",
+            "lessonRoom": "6A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/02/22",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "现L6",
+            "lessonRoom": "E1A208",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/02/23",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/02/24",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/02/25",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1L2",
+            "lessonRoom": "E1B404",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/02/26",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/02/27",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/02/28",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "创L7",
+            "lessonRoom": "6A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/01",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "现L6",
+            "lessonRoom": "E1A208",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/02",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/03",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/04",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1L2",
+            "lessonRoom": "E1B404",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/05",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/06",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/03/07",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "创L7",
+            "lessonRoom": "6A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/08",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "现L6",
+            "lessonRoom": "E1A208",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/09",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/10",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/11",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1L2",
+            "lessonRoom": "E1B404",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/12",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/13",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/03/14",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "创L7",
+            "lessonRoom": "6A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/15",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "现L6",
+            "lessonRoom": "E1A208",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/16",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/17",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/18",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1L2",
+            "lessonRoom": "E1B404",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/19",
+        "morningLessons": [
+          {
+            "lessonShortName": "毛1X1",
+            "lessonRoom": "内0110(教师指定)",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1X1",
+            "lessonRoom": "内0110(教师指定)",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "毛1X1",
+            "lessonRoom": "内0110(教师指定)",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1X1",
+            "lessonRoom": "内0110(教师指定)",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/20",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/03/21",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "创L7",
+            "lessonRoom": "6A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/22",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "现L6",
+            "lessonRoom": "E1A208",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/23",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/24",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/25",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1L2",
+            "lessonRoom": "E1B404",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/26",
+        "morningLessons": [
+          {
+            "lessonShortName": "计算机等级考试",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "计算机等级考试",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "计算机等级考试",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "计算机等级考试",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "计算机等级考试",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/27",
+        "morningLessons": [
+          {
+            "lessonShortName": "计算机等级考试",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "计算机等级考试",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "计算机等级考试",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "计算机等级考试",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "计算机等级考试",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/03/28",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "创L7",
+            "lessonRoom": "6A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/29",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/30",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/03/31",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/01",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1L2",
+            "lessonRoom": "E1B404",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/02",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "创L7",
+            "lessonRoom": "6A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/03",
+        "morningLessons": [
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/04/04",
+        "morningLessons": [
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/05",
+        "morningLessons": [
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "清明节",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/06",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/07",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "嵌1R2",
+            "lessonRoom": "C075-04-34",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/08",
+        "morningLessons": [
+          {
+            "lessonShortName": "L1R2",
+            "lessonRoom": "C075-05-38",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1L2",
+            "lessonRoom": "E1B404",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/09",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/10",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/04/11",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "创L7",
+            "lessonRoom": "6A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/12",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/13",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "不排课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/14",
+        "morningLessons": [
+          {
+            "lessonShortName": "运动会",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "运动会",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "运动会",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "运动会",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "运动会",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/15",
+        "morningLessons": [
+          {
+            "lessonShortName": "运动会",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "运动会",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "运动会",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "运动会",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "运动会",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/16",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/17",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/04/18",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "游1R1",
+            "lessonRoom": "C075-05-35",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/19",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "现L6",
+            "lessonRoom": "E1A208",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/20",
+        "morningLessons": [
+          {
+            "lessonShortName": "软2R1",
+            "lessonRoom": "C075-05-37",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/21",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/22",
+        "morningLessons": [
+          {
+            "lessonShortName": "L1R2",
+            "lessonRoom": "C075-05-38",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1L2",
+            "lessonRoom": "E1B404",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/23",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/24",
+        "morningLessons": [
+          {
+            "lessonShortName": "P1R2",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/04/25",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "游1R1",
+            "lessonRoom": "C075-05-35",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/26",
+        "morningLessons": [
+          {
+            "lessonShortName": "P1R2",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "现L6",
+            "lessonRoom": "E1A208",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/27",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/28",
+        "morningLessons": [
+          {
+            "lessonShortName": "软1R1",
+            "lessonRoom": "C075-05-38",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "嵌1R2",
+            "lessonRoom": "C075-04-34",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/29",
+        "morningLessons": [
+          {
+            "lessonShortName": "L1R2",
+            "lessonRoom": "C075-05-38",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1L2",
+            "lessonRoom": "E1B404",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "不排课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/04/30",
+        "morningLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/01",
+        "morningLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/05/02",
+        "morningLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/03",
+        "morningLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/04",
+        "morningLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "劳动节",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/05",
+        "morningLessons": [
+          {
+            "lessonShortName": "软1R1",
+            "lessonRoom": "C075-05-38",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "嵌1R2",
+            "lessonRoom": "C075-04-34",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/06",
+        "morningLessons": [
+          {
+            "lessonShortName": "L1R2",
+            "lessonRoom": "C075-05-38",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1L2",
+            "lessonRoom": "E1B404",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/07",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2R1",
+            "lessonRoom": "C075-05-37",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/08",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/05/09",
+        "morningLessons": [
+          {
+            "lessonShortName": "嵌1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "游1R1",
+            "lessonRoom": "C075-05-35",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/10",
+        "morningLessons": [
+          {
+            "lessonShortName": "P1R2",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1R2",
+            "lessonRoom": "C075-05-37",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "现L6",
+            "lessonRoom": "E1A208",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/11",
+        "morningLessons": [
+          {
+            "lessonShortName": "软2R1",
+            "lessonRoom": "C075-05-37",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "P1L1",
+            "lessonRoom": "6A102",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/12",
+        "morningLessons": [
+          {
+            "lessonShortName": "软1R1",
+            "lessonRoom": "C075-05-38",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "嵌1R2",
+            "lessonRoom": "C075-04-34",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/13",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/14",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/15",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/05/16",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软2L1",
+            "lessonRoom": "E2A501",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "游1R1",
+            "lessonRoom": "C075-05-35",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/17",
+        "morningLessons": [
+          {
+            "lessonShortName": "P1R2",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "L1R2",
+            "lessonRoom": "C075-05-37",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "现L6",
+            "lessonRoom": "E1A208",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/18",
+        "morningLessons": [
+          {
+            "lessonShortName": "软2R1",
+            "lessonRoom": "C075-05-37",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/19",
+        "morningLessons": [
+          {
+            "lessonShortName": "软1R1",
+            "lessonRoom": "C075-05-38",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "软1L1",
+            "lessonRoom": "E2A401",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "嵌1R2",
+            "lessonRoom": "C075-04-34",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/20",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/21",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/22",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/05/23",
+        "morningLessons": [
+          {
+            "lessonShortName": "WX1",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "WX1",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "游1R1",
+            "lessonRoom": "C075-05-35",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "WX1",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/24",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "形L2",
+            "lessonRoom": "6A202",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "现L6",
+            "lessonRoom": "E1A208",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/25",
+        "morningLessons": [
+          {
+            "lessonShortName": "WX1",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "WX1",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "WX1",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/26",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "WX1",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "WX1",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "WX1",
+            "lessonRoom": "C075-05-32",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 1
+          }
+        ]
+      },
+      {
+        "date": "2022/05/27",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "嵌1R2",
+            "lessonRoom": "C075-04-34",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/28",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/29",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/05/30",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "游1R1",
+            "lessonRoom": "C075-05-35",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/05/31",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "形L2",
+            "lessonRoom": "6A202",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "现L6",
+            "lessonRoom": "E1A208",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 1
+          }
+        ]
+      },
+      {
+        "date": "2022/06/01",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/02",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "不排课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/03",
+        "morningLessons": [
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/04",
+        "morningLessons": [
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/05",
+        "morningLessons": [
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "端午节",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/06/06",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "游1R1",
+            "lessonRoom": "C075-05-35",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/07",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "形L2",
+            "lessonRoom": "6A202",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/08",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/09",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "嵌1R2",
+            "lessonRoom": "C075-04-34",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/10",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "嵌1R2",
+            "lessonRoom": "C075-04-34",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/11",
+        "morningLessons": [
+          {
+            "lessonShortName": "全国英语四六级",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "全国英语四六级",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "全国英语四六级",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "全国英语四六级",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "全国英语四六级",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/12",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/06/13",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "游1R1",
+            "lessonRoom": "C075-05-35",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/14",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "形L2",
+            "lessonRoom": "6A202",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/15",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/16",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/17",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/18",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/19",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/06/20",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/21",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/22",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/23",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/24",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "游1L1",
+            "lessonRoom": "6A209",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/25",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/26",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/06/27",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/28",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/29",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "教研",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/06/30",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "毛1L5",
+            "lessonRoom": "E1A104",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/07/01",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/07/02",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/07/03",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "date": "2022/07/04",
+        "morningLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/07/05",
+        "morningLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/07/06",
+        "morningLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/07/07",
+        "morningLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/07/08",
+        "morningLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "考试周",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/07/09",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      },
+      {
+        "date": "2022/07/10",
+        "morningLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "noonLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          },
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 2
+          }
+        ],
+        "nightLessons": [
+          {
+            "lessonShortName": "无课",
+            "lessonLastNum": 3
+          }
+        ]
+      }
+    ]
+  ]
+}

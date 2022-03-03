@@ -1,0 +1,141 @@
+.table-body-list-container {
+  width: 100%;
+  height: 90%;
+  position: relative;
+  overflow: hidden;
+  user-select: none;
+  -webkit-user-select:none; 
+    -moz-user-select:none; 
+    -ms-user-select:none; 
+}
+
+.table-body-list {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  cursor: pointer;
+  list-style: none;
+  transition: 0.5s;
+}
+
+.table-body-container {
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+.table-body {
+  margin: 0 2.5%;
+  width: 95%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.table-body-header {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(104, 195, 238);
+  height: 6%;
+  width: 100%;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+
+.table-day {
+  display: flex;
+  flex-wrap: wrap;
+  width: 14.28%;
+}
+
+.table-day-date {
+  width: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.table-day-weekday {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+
+.lesson-table {
+  height: 93.5%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-shrink: 0;
+}
+
+.lesson-morning {
+  height: 35.2%;
+  width: 100%;
+}
+
+.lesson-afternoon {
+  height: 35.2%;
+  width: 100%;
+}
+
+.lesson-night {
+  height: 26.4%;
+  width: 100%;
+}
+
+.lesson-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+.lesson {
+  width: 13%;
+  margin: 0 0.64%;
+  background-color: pink;
+  border-radius: 0.5rem;
+}
+
+.lesson-none {
+  background-color: transparent;
+}
+
+.day-lesson-1 {
+  height: 22%;
+}
+
+.day-lesson-2 {
+  height: 47%;
+}
+
+.day-lesson-3 {
+  height: 72%;
+}
+
+.day-lesson-4 {
+  height: 97%;
+}
+
+.night-lesson-1 {
+  height: 29.33%;
+}
+
+.night-lesson-2 {
+  height: 62.67%;
+}
+
+.night-lesson-3 {
+  height: 96%;
+}
