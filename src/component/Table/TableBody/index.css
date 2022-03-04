@@ -17,6 +17,7 @@
   cursor: pointer;
   list-style: none;
   transition: 0.5s;
+  transform: translateZ(0);
 }
 
 .table-body-container {

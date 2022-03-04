@@ -21,7 +21,8 @@
   width: 100%;
   height: 100%;
   z-index: 999;
-  transition: 0.25s;
+  transition: 0.5s;
+  transform: translateZ(0);
 }
 
 .lesson-info {
