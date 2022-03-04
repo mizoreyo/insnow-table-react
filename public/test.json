@@ -171,11 +171,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "创L7",
+            "lessonName": "创业就业指导",
             "lessonRoom": "6A104",
             "lessonLastNum": 2
           }
@@ -183,17 +185,20 @@
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -203,20 +208,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -224,6 +233,7 @@
         "nightLessons": [
           {
             "lessonShortName": "现L6",
+            "lessonName": "现代社会经济活动",
             "lessonRoom": "E1A208",
             "lessonLastNum": 3
           }
@@ -234,11 +244,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -246,16 +258,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -265,27 +280,32 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -296,10 +316,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1L2",
+            "lessonName": "Linux操作系统",
             "lessonRoom": "E1B404",
             "lessonLastNum": 2
           }
@@ -307,17 +329,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -327,26 +352,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -356,26 +386,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -387,11 +422,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "创L7",
+            "lessonName": "创业就业指导",
             "lessonRoom": "6A104",
             "lessonLastNum": 2
           }
@@ -399,17 +436,20 @@
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -419,20 +459,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -440,6 +484,7 @@
         "nightLessons": [
           {
             "lessonShortName": "现L6",
+            "lessonName": "现代社会经济活动",
             "lessonRoom": "E1A208",
             "lessonLastNum": 3
           }
@@ -450,11 +495,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -462,16 +509,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -481,27 +531,32 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -512,10 +567,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1L2",
+            "lessonName": "Linux操作系统",
             "lessonRoom": "E1B404",
             "lessonLastNum": 2
           }
@@ -523,17 +580,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -543,26 +603,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -572,26 +637,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -603,11 +673,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "创L7",
+            "lessonName": "创业就业指导",
             "lessonRoom": "6A104",
             "lessonLastNum": 2
           }
@@ -615,17 +687,20 @@
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -635,20 +710,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -656,6 +735,7 @@
         "nightLessons": [
           {
             "lessonShortName": "现L6",
+            "lessonName": "现代社会经济活动",
             "lessonRoom": "E1A208",
             "lessonLastNum": 3
           }
@@ -666,11 +746,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -678,16 +760,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -697,27 +782,32 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -728,10 +818,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1L2",
+            "lessonName": "Linux操作系统",
             "lessonRoom": "E1B404",
             "lessonLastNum": 2
           }
@@ -739,17 +831,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -759,26 +854,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -788,26 +888,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -819,11 +924,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "创L7",
+            "lessonName": "创业就业指导",
             "lessonRoom": "6A104",
             "lessonLastNum": 2
           }
@@ -831,17 +938,20 @@
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -851,20 +961,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -872,6 +986,7 @@
         "nightLessons": [
           {
             "lessonShortName": "现L6",
+            "lessonName": "现代社会经济活动",
             "lessonRoom": "E1A208",
             "lessonLastNum": 3
           }
@@ -882,11 +997,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -894,16 +1011,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -913,27 +1033,32 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -944,10 +1069,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1L2",
+            "lessonName": "Linux操作系统",
             "lessonRoom": "E1B404",
             "lessonLastNum": 2
           }
@@ -955,17 +1082,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -975,11 +1105,13 @@
         "morningLessons": [
           {
             "lessonShortName": "毛1X1",
+            "lessonName": "[实]毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "内0110(教师指定)",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1X1",
+            "lessonName": "[实]毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "内0110(教师指定)",
             "lessonLastNum": 2
           }
@@ -987,11 +1119,13 @@
         "noonLessons": [
           {
             "lessonShortName": "毛1X1",
+            "lessonName": "[实]毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "内0110(教师指定)",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1X1",
+            "lessonName": "[实]毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "内0110(教师指定)",
             "lessonLastNum": 2
           }
@@ -999,6 +1133,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1008,26 +1143,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1039,11 +1179,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "创L7",
+            "lessonName": "创业就业指导",
             "lessonRoom": "6A104",
             "lessonLastNum": 2
           }
@@ -1051,17 +1193,20 @@
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1071,20 +1216,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -1092,6 +1241,7 @@
         "nightLessons": [
           {
             "lessonShortName": "现L6",
+            "lessonName": "现代社会经济活动",
             "lessonRoom": "E1A208",
             "lessonLastNum": 3
           }
@@ -1102,11 +1252,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -1114,16 +1266,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1133,27 +1288,32 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -1164,10 +1324,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1L2",
+            "lessonName": "Linux操作系统",
             "lessonRoom": "E1B404",
             "lessonLastNum": 2
           }
@@ -1175,17 +1337,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1195,26 +1360,31 @@
         "morningLessons": [
           {
             "lessonShortName": "计算机等级考试",
+            "lessonName": "计算机等级考试",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "计算机等级考试",
+            "lessonName": "计算机等级考试",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "计算机等级考试",
+            "lessonName": "计算机等级考试",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "计算机等级考试",
+            "lessonName": "计算机等级考试",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "计算机等级考试",
+            "lessonName": "计算机等级考试",
             "lessonLastNum": 3
           }
         ]
@@ -1224,26 +1394,31 @@
         "morningLessons": [
           {
             "lessonShortName": "计算机等级考试",
+            "lessonName": "计算机等级考试",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "计算机等级考试",
+            "lessonName": "计算机等级考试",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "计算机等级考试",
+            "lessonName": "计算机等级考试",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "计算机等级考试",
+            "lessonName": "计算机等级考试",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "计算机等级考试",
+            "lessonName": "计算机等级考试",
             "lessonLastNum": 3
           }
         ]
@@ -1255,11 +1430,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "创L7",
+            "lessonName": "创业就业指导",
             "lessonRoom": "6A104",
             "lessonLastNum": 2
           }
@@ -1267,17 +1444,20 @@
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1287,20 +1467,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -1308,6 +1492,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1317,11 +1502,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -1329,16 +1516,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1348,27 +1538,32 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -1379,10 +1574,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1L2",
+            "lessonName": "Linux操作系统",
             "lessonRoom": "E1B404",
             "lessonLastNum": 2
           }
@@ -1390,17 +1587,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1410,11 +1610,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "创L7",
+            "lessonName": "创业就业指导",
             "lessonRoom": "6A104",
             "lessonLastNum": 2
           }
@@ -1422,17 +1624,20 @@
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1442,26 +1647,31 @@
         "morningLessons": [
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 3
           }
         ]
@@ -1473,26 +1683,31 @@
         "morningLessons": [
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 3
           }
         ]
@@ -1502,26 +1717,31 @@
         "morningLessons": [
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "清明节",
+            "lessonName": "清明节",
             "lessonLastNum": 3
           }
         ]
@@ -1531,11 +1751,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -1543,16 +1765,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1562,21 +1787,25 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "嵌1R2",
+            "lessonName": "[实]嵌入式系统",
             "lessonRoom": "C075-04-34",
             "lessonLastNum": 2
           }
@@ -1584,6 +1813,7 @@
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -1594,11 +1824,13 @@
         "morningLessons": [
           {
             "lessonShortName": "L1R2",
+            "lessonName": "[实]Linux操作系统",
             "lessonRoom": "C075-05-38",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1L2",
+            "lessonName": "Linux操作系统",
             "lessonRoom": "E1B404",
             "lessonLastNum": 2
           }
@@ -1606,17 +1838,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1626,26 +1861,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1655,26 +1895,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1686,11 +1931,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "创L7",
+            "lessonName": "创业就业指导",
             "lessonRoom": "6A104",
             "lessonLastNum": 2
           }
@@ -1698,17 +1945,20 @@
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1718,20 +1968,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -1739,6 +1993,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1748,11 +2003,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -1760,16 +2017,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "不排课",
+            "lessonName": "不排课",
             "lessonLastNum": 3
           }
         ]
@@ -1779,26 +2039,31 @@
         "morningLessons": [
           {
             "lessonShortName": "运动会",
+            "lessonName": "运动会",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "运动会",
+            "lessonName": "运动会",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "运动会",
+            "lessonName": "运动会",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "运动会",
+            "lessonName": "运动会",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "运动会",
+            "lessonName": "运动会",
             "lessonLastNum": 3
           }
         ]
@@ -1808,26 +2073,31 @@
         "morningLessons": [
           {
             "lessonShortName": "运动会",
+            "lessonName": "运动会",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "运动会",
+            "lessonName": "运动会",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "运动会",
+            "lessonName": "运动会",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "运动会",
+            "lessonName": "运动会",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "运动会",
+            "lessonName": "运动会",
             "lessonLastNum": 3
           }
         ]
@@ -1837,26 +2107,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1866,26 +2141,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1897,21 +2177,25 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "游1R1",
+            "lessonName": "[实]游戏程序设计",
             "lessonRoom": "C075-05-35",
             "lessonLastNum": 2
           }
@@ -1919,6 +2203,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1928,20 +2213,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -1949,6 +2238,7 @@
         "nightLessons": [
           {
             "lessonShortName": "现L6",
+            "lessonName": "现代社会经济活动",
             "lessonRoom": "E1A208",
             "lessonLastNum": 3
           }
@@ -1959,11 +2249,13 @@
         "morningLessons": [
           {
             "lessonShortName": "软2R1",
+            "lessonName": "[实]软件项目管理",
             "lessonRoom": "C075-05-37",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -1971,16 +2263,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -1990,27 +2285,32 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -2021,11 +2321,13 @@
         "morningLessons": [
           {
             "lessonShortName": "L1R2",
+            "lessonName": "[实]Linux操作系统",
             "lessonRoom": "C075-05-38",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1L2",
+            "lessonName": "Linux操作系统",
             "lessonRoom": "E1B404",
             "lessonLastNum": 2
           }
@@ -2033,17 +2335,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2053,26 +2358,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2082,21 +2392,25 @@
         "morningLessons": [
           {
             "lessonShortName": "P1R2",
+            "lessonName": "[实]Python语言程序设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -2104,6 +2418,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2115,22 +2430,26 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "游1R1",
+            "lessonName": "[实]游戏程序设计",
             "lessonRoom": "C075-05-35",
             "lessonLastNum": 2
           }
@@ -2138,6 +2457,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2147,21 +2467,25 @@
         "morningLessons": [
           {
             "lessonShortName": "P1R2",
+            "lessonName": "[实]Python语言程序设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -2169,6 +2493,7 @@
         "nightLessons": [
           {
             "lessonShortName": "现L6",
+            "lessonName": "现代社会经济活动",
             "lessonRoom": "E1A208",
             "lessonLastNum": 3
           }
@@ -2179,11 +2504,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -2191,16 +2518,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2210,22 +2540,26 @@
         "morningLessons": [
           {
             "lessonShortName": "软1R1",
+            "lessonName": "[实]软件测试与验证",
             "lessonRoom": "C075-05-38",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "嵌1R2",
+            "lessonName": "[实]嵌入式系统",
             "lessonRoom": "C075-04-34",
             "lessonLastNum": 2
           }
@@ -2233,6 +2567,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2242,11 +2577,13 @@
         "morningLessons": [
           {
             "lessonShortName": "L1R2",
+            "lessonName": "[实]Linux操作系统",
             "lessonRoom": "C075-05-38",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1L2",
+            "lessonName": "Linux操作系统",
             "lessonRoom": "E1B404",
             "lessonLastNum": 2
           }
@@ -2254,17 +2591,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "不排课",
+            "lessonName": "不排课",
             "lessonLastNum": 3
           }
         ]
@@ -2274,26 +2614,31 @@
         "morningLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 3
           }
         ]
@@ -2303,26 +2648,31 @@
         "morningLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 3
           }
         ]
@@ -2334,26 +2684,31 @@
         "morningLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 3
           }
         ]
@@ -2363,26 +2718,31 @@
         "morningLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 3
           }
         ]
@@ -2392,26 +2752,31 @@
         "morningLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "劳动节",
+            "lessonName": "劳动节",
             "lessonLastNum": 3
           }
         ]
@@ -2421,22 +2786,26 @@
         "morningLessons": [
           {
             "lessonShortName": "软1R1",
+            "lessonName": "[实]软件测试与验证",
             "lessonRoom": "C075-05-38",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "嵌1R2",
+            "lessonName": "[实]嵌入式系统",
             "lessonRoom": "C075-04-34",
             "lessonLastNum": 2
           }
@@ -2444,6 +2813,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2453,11 +2823,13 @@
         "morningLessons": [
           {
             "lessonShortName": "L1R2",
+            "lessonName": "[实]Linux操作系统",
             "lessonRoom": "C075-05-38",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1L2",
+            "lessonName": "Linux操作系统",
             "lessonRoom": "E1B404",
             "lessonLastNum": 2
           }
@@ -2465,17 +2837,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2485,11 +2860,13 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -2497,17 +2874,20 @@
         "noonLessons": [
           {
             "lessonShortName": "软2R1",
+            "lessonName": "[实]软件项目管理",
             "lessonRoom": "C075-05-37",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2517,26 +2897,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2548,22 +2933,26 @@
         "morningLessons": [
           {
             "lessonShortName": "嵌1L1",
+            "lessonName": "嵌入式系统",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "游1R1",
+            "lessonName": "[实]游戏程序设计",
             "lessonRoom": "C075-05-35",
             "lessonLastNum": 2
           }
@@ -2571,6 +2960,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2580,11 +2970,13 @@
         "morningLessons": [
           {
             "lessonShortName": "P1R2",
+            "lessonName": "[实]Python语言程序设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1R2",
+            "lessonName": "[实]Linux操作系统",
             "lessonRoom": "C075-05-37",
             "lessonLastNum": 2
           }
@@ -2592,10 +2984,12 @@
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -2603,6 +2997,7 @@
         "nightLessons": [
           {
             "lessonShortName": "现L6",
+            "lessonName": "现代社会经济活动",
             "lessonRoom": "E1A208",
             "lessonLastNum": 3
           }
@@ -2613,11 +3008,13 @@
         "morningLessons": [
           {
             "lessonShortName": "软2R1",
+            "lessonName": "[实]软件项目管理",
             "lessonRoom": "C075-05-37",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "P1L1",
+            "lessonName": "Python语言程序设计",
             "lessonRoom": "6A102",
             "lessonLastNum": 2
           }
@@ -2625,16 +3022,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2644,22 +3044,26 @@
         "morningLessons": [
           {
             "lessonShortName": "软1R1",
+            "lessonName": "[实]软件测试与验证",
             "lessonRoom": "C075-05-38",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "嵌1R2",
+            "lessonName": "[实]嵌入式系统",
             "lessonRoom": "C075-04-34",
             "lessonLastNum": 2
           }
@@ -2667,6 +3071,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2676,27 +3081,32 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2706,26 +3116,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2735,26 +3150,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2766,21 +3186,25 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软2L1",
+            "lessonName": "软件项目管理",
             "lessonRoom": "E2A501",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "游1R1",
+            "lessonName": "[实]游戏程序设计",
             "lessonRoom": "C075-05-35",
             "lessonLastNum": 2
           }
@@ -2788,6 +3212,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2797,11 +3222,13 @@
         "morningLessons": [
           {
             "lessonShortName": "P1R2",
+            "lessonName": "[实]Python语言程序设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "L1R2",
+            "lessonName": "[实]Linux操作系统",
             "lessonRoom": "C075-05-37",
             "lessonLastNum": 2
           }
@@ -2809,10 +3236,12 @@
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -2820,6 +3249,7 @@
         "nightLessons": [
           {
             "lessonShortName": "现L6",
+            "lessonName": "现代社会经济活动",
             "lessonRoom": "E1A208",
             "lessonLastNum": 3
           }
@@ -2830,27 +3260,32 @@
         "morningLessons": [
           {
             "lessonShortName": "软2R1",
+            "lessonName": "[实]软件项目管理",
             "lessonRoom": "C075-05-37",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2860,22 +3295,26 @@
         "morningLessons": [
           {
             "lessonShortName": "软1R1",
+            "lessonName": "[实]软件测试与验证",
             "lessonRoom": "C075-05-38",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "软1L1",
+            "lessonName": "软件测试与验证",
             "lessonRoom": "E2A401",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "嵌1R2",
+            "lessonName": "[实]嵌入式系统",
             "lessonRoom": "C075-04-34",
             "lessonLastNum": 2
           }
@@ -2883,6 +3322,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2892,27 +3332,32 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2922,26 +3367,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2951,26 +3401,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -2982,11 +3437,13 @@
         "morningLessons": [
           {
             "lessonShortName": "WX1",
+            "lessonName": "[实]Web应用开发课程设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "WX1",
+            "lessonName": "[实]Web应用开发课程设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 2
           }
@@ -2994,10 +3451,12 @@
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "游1R1",
+            "lessonName": "[实]游戏程序设计",
             "lessonRoom": "C075-05-35",
             "lessonLastNum": 2
           }
@@ -3005,6 +3464,7 @@
         "nightLessons": [
           {
             "lessonShortName": "WX1",
+            "lessonName": "[实]Web应用开发课程设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 3
           }
@@ -3015,10 +3475,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "形L2",
+            "lessonName": "形势与政策（6）",
             "lessonRoom": "6A202",
             "lessonLastNum": 2
           }
@@ -3026,10 +3488,12 @@
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -3037,6 +3501,7 @@
         "nightLessons": [
           {
             "lessonShortName": "现L6",
+            "lessonName": "现代社会经济活动",
             "lessonRoom": "E1A208",
             "lessonLastNum": 3
           }
@@ -3047,11 +3512,13 @@
         "morningLessons": [
           {
             "lessonShortName": "WX1",
+            "lessonName": "[实]Web应用开发课程设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "WX1",
+            "lessonName": "[实]Web应用开发课程设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 2
           }
@@ -3059,16 +3526,19 @@
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "WX1",
+            "lessonName": "[实]Web应用开发课程设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 3
           }
@@ -3079,21 +3549,25 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "WX1",
+            "lessonName": "[实]Web应用开发课程设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "WX1",
+            "lessonName": "[实]Web应用开发课程设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 2
           }
@@ -3101,11 +3575,13 @@
         "nightLessons": [
           {
             "lessonShortName": "WX1",
+            "lessonName": "[实]Web应用开发课程设计",
             "lessonRoom": "C075-05-32",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 1
           }
         ]
@@ -3115,10 +3591,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "嵌1R2",
+            "lessonName": "[实]嵌入式系统",
             "lessonRoom": "C075-04-34",
             "lessonLastNum": 2
           }
@@ -3126,17 +3604,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3146,26 +3627,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3175,26 +3661,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3206,20 +3697,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "游1R1",
+            "lessonName": "[实]游戏程序设计",
             "lessonRoom": "C075-05-35",
             "lessonLastNum": 2
           }
@@ -3227,6 +3722,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3236,10 +3732,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "形L2",
+            "lessonName": "形势与政策（6）",
             "lessonRoom": "6A202",
             "lessonLastNum": 2
           }
@@ -3247,10 +3745,12 @@
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -3258,11 +3758,13 @@
         "nightLessons": [
           {
             "lessonShortName": "现L6",
+            "lessonName": "现代社会经济活动",
             "lessonRoom": "E1A208",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 1
           }
         ]
@@ -3272,26 +3774,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3301,26 +3808,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "不排课",
+            "lessonName": "不排课",
             "lessonLastNum": 3
           }
         ]
@@ -3330,26 +3842,31 @@
         "morningLessons": [
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 3
           }
         ]
@@ -3359,26 +3876,31 @@
         "morningLessons": [
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 3
           }
         ]
@@ -3388,26 +3910,31 @@
         "morningLessons": [
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "端午节",
+            "lessonName": "端午节",
             "lessonLastNum": 3
           }
         ]
@@ -3419,20 +3946,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "游1R1",
+            "lessonName": "[实]游戏程序设计",
             "lessonRoom": "C075-05-35",
             "lessonLastNum": 2
           }
@@ -3440,6 +3971,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3449,10 +3981,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "形L2",
+            "lessonName": "形势与政策（6）",
             "lessonRoom": "6A202",
             "lessonLastNum": 2
           }
@@ -3460,10 +3994,12 @@
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -3471,6 +4007,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3480,26 +4017,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3509,20 +4051,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "嵌1R2",
+            "lessonName": "[实]嵌入式系统",
             "lessonRoom": "C075-04-34",
             "lessonLastNum": 2
           }
@@ -3530,6 +4076,7 @@
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -3540,10 +4087,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "嵌1R2",
+            "lessonName": "[实]嵌入式系统",
             "lessonRoom": "C075-04-34",
             "lessonLastNum": 2
           }
@@ -3551,17 +4100,20 @@
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3571,26 +4123,31 @@
         "morningLessons": [
           {
             "lessonShortName": "全国英语四六级",
+            "lessonName": "全国英语四六级",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "全国英语四六级",
+            "lessonName": "全国英语四六级",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "全国英语四六级",
+            "lessonName": "全国英语四六级",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "全国英语四六级",
+            "lessonName": "全国英语四六级",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "全国英语四六级",
+            "lessonName": "全国英语四六级",
             "lessonLastNum": 3
           }
         ]
@@ -3600,26 +4157,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3631,20 +4193,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "游1R1",
+            "lessonName": "[实]游戏程序设计",
             "lessonRoom": "C075-05-35",
             "lessonLastNum": 2
           }
@@ -3652,6 +4218,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3661,10 +4228,12 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "形L2",
+            "lessonName": "形势与政策（6）",
             "lessonRoom": "6A202",
             "lessonLastNum": 2
           }
@@ -3672,10 +4241,12 @@
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -3683,6 +4254,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3692,26 +4264,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3721,26 +4298,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -3751,27 +4333,32 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3781,26 +4368,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3810,26 +4402,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3841,26 +4438,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3870,20 +4472,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -3891,6 +4497,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3900,26 +4507,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3929,26 +4541,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -3959,27 +4576,32 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "游1L1",
+            "lessonName": "游戏程序设计",
             "lessonRoom": "6A209",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -3989,26 +4611,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -4018,26 +4645,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -4049,26 +4681,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -4078,20 +4715,24 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 2
           }
@@ -4099,6 +4740,7 @@
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -4108,26 +4750,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "教研",
+            "lessonName": "教研",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -4137,26 +4784,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "毛1L5",
+            "lessonName": "毛泽东思想和中国特色社会主义理论体系概论",
             "lessonRoom": "E1A104",
             "lessonLastNum": 3
           }
@@ -4167,26 +4819,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -4196,26 +4853,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -4225,26 +4887,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -4256,26 +4923,31 @@
         "morningLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 3
           }
         ]
@@ -4285,26 +4957,31 @@
         "morningLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 3
           }
         ]
@@ -4314,26 +4991,31 @@
         "morningLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 3
           }
         ]
@@ -4343,26 +5025,31 @@
         "morningLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 3
           }
         ]
@@ -4372,26 +5059,31 @@
         "morningLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "考试周",
+            "lessonName": "考试周",
             "lessonLastNum": 3
           }
         ]
@@ -4401,26 +5093,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]
@@ -4430,26 +5127,31 @@
         "morningLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "noonLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           },
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 2
           }
         ],
         "nightLessons": [
           {
             "lessonShortName": "无课",
+            "lessonName": "无课",
             "lessonLastNum": 3
           }
         ]

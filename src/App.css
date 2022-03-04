@@ -17,6 +17,10 @@ html,body {
   -webkit-tap-highlight-color: transparent;
 }
 
-::-webkit-scrollbar {
-  width:0;
+.icon {
+  width: 1rem;
+  height: 1rem;
+  vertical-align: -0.15rem;
+  fill: currentColor;
+  overflow: hidden;
 }

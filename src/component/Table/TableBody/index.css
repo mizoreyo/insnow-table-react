@@ -106,10 +106,18 @@
   margin: 0 0.64%;
   background-color: pink;
   border-radius: 0.5rem;
+  padding: 0.5%;
+  word-break: break-all;
+  overflow: hidden;
+}
+
+.lesson span {
+  color: #fff;
 }
 
 .lesson-none {
   background-color: transparent;
+  font-size: 0;
 }
 
 .day-lesson-1 {
