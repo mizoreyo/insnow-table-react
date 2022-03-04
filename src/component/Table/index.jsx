@@ -21,6 +21,7 @@ export default function Table() {
     lessonHour: "32",
     lessonCredit: "3",
     lessonRoom: "6A209",
+    lessonTime: "7-8节(16:25-18:00)",
     lessonRemark: "同学们准备一台配置不太过时的电脑，复习数字图像处理、计算机图形学，预习Csharp将有利于提升学习效果。"
   })
 
@@ -100,7 +101,7 @@ export default function Table() {
                 </svg>
                 <span>时间 :</span>
               </div>
-              <div className='attr-value'>{lessonInfo.lessonCredit}</div>
+              <div className='attr-value'>{lessonInfo.lessonTime}</div>
             </li>
             <li className='lesson-info-attr'>
               <div className='attr-name'>

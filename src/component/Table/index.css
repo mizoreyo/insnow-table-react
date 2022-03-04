@@ -49,13 +49,13 @@
 }
 
 .lesson-info-list {
-  height: 90%;
+  height: 86%;
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   overflow: scroll;
-  margin-top: 2%;
+  margin-top: 5%;
 }
 
 .lesson-info-list::-webkit-scrollbar {
@@ -63,32 +63,32 @@
 }
 
 .lesson-info-attr {
-  width: 96%;
+  width: 90%;
   display: flex;
   align-items: flex-start;
-  margin-bottom: 3%;
+  margin-bottom: 5%;
 }
 
 .attr-name {
-  width: 25%;
+  width: 30%;
   display: flex;
   align-items: center;
-  font-size: 15px;
-  color: rgb(29, 110, 233);
+  font-size: 1.5rem;
+  color: rgb(22, 95, 206);
 }
 
 .attr-name svg {
   width: 2rem;
   height: 2rem;
   vertical-align: -0.3rem;
-  margin-right: 0.5rem;
+  margin-right: 10%;
 }
 
 .attr-value {
-  width: 75%;
-  font-size: 15px;
+  width: 70%;
+  font-size: 1.5rem;
   flex-shrink: 0;
-  color: rgb(85, 80, 80);
+  color: rgb(92, 92, 92);
 }
 
 .icon-xiajiantou {

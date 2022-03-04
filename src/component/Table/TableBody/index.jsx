@@ -48,7 +48,7 @@ export default function TableBody(props) {
     return result
   }
 
-  function showLessonInfo(lessonShortName, lessonRoom) {
+  function showLessonInfo(lessonShortName, lessonRoom, lessonTime) {
     return () => {
       let lessonInfo = {}
       courses.map((course) => {
@@ -62,6 +62,7 @@ export default function TableBody(props) {
         }
       })
       lessonInfo.lessonRoom = lessonRoom
+      lessonInfo.lessonTime = lessonTime
       lessonInfo.isInfoShow = true
       setLessonInfo(lessonInfo)
     }
@@ -189,7 +190,7 @@ export default function TableBody(props) {
                         weekLesson.map((dayLesson) => {
                           return dayLesson.morningLessons.map((lesson) => {
                             return (
-                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} day-lesson-${lesson.lessonLastNum}`}>
+                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom, lesson.lessonTime)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} day-lesson-${lesson.lessonLastNum}`}>
                                 <span>@{lesson.lessonRoom}</span><br /><span>{lesson.lessonName}</span>
                               </li>
                             )
@@ -202,7 +203,7 @@ export default function TableBody(props) {
                         weekLesson.map((dayLesson) => {
                           return dayLesson.noonLessons.map((lesson) => {
                             return (
-                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} day-lesson-${lesson.lessonLastNum}`}>
+                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom, lesson.lessonTime)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} day-lesson-${lesson.lessonLastNum}`}>
                                 <span>@{lesson.lessonRoom}</span><br /><span>{lesson.lessonName}</span>
                               </li>
                             )
@@ -215,7 +216,7 @@ export default function TableBody(props) {
                         weekLesson.map((dayLesson) => {
                           return dayLesson.nightLessons.map((lesson) => {
                             return (
-                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} night-lesson-${lesson.lessonLastNum}`}>
+                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom, lesson.lessonTime)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} night-lesson-${lesson.lessonLastNum}`}>
                                 <span>@{lesson.lessonRoom}</span><br /><span>{lesson.lessonName}</span>
                               </li>
                             )
