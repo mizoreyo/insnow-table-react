@@ -5,10 +5,10 @@ import './index.css'
 
 export default function TableBody(props) {
 
+  const [aLessons, setALessons] = React.useState([])
   // props
   const { tableData, pageNum, setPageNum, setLessonInfo } = props
   const { lessons, courses } = tableData
-  console.log(tableData)
 
   // DOM ref
   const tableBodyListRef = React.useRef()
@@ -18,6 +18,25 @@ export default function TableBody(props) {
   const lastXRef = React.useRef()
   const weekNumRef = React.useRef()
   const pageNumRef = React.useRef()
+
+  React.useEffect(() => {
+    function addColor(lesson) {
+      courses.map((course, index) => {
+        if (course.courseShortName === lesson.lessonShortName) {
+          lesson.color = index % 18
+        }
+      })
+    }
+    let bLessons = Object.assign(lessons)
+    bLessons.map((weekLessons) => {
+      weekLessons.map((dayLessons) => {
+        dayLessons.morningLessons.map(addColor)
+        dayLessons.noonLessons.map(addColor)
+        dayLessons.nightLessons.map(addColor)
+      })
+    })
+    setALessons(bLessons)
+  }, [lessons, courses])
 
   React.useEffect(() => {
     document.onmousemove = handleMouseMove
@@ -50,6 +69,9 @@ export default function TableBody(props) {
 
   function showLessonInfo(lessonShortName, lessonRoom, lessonTime) {
     return () => {
+      if (lessonShortName === '无课') {
+        return
+      }
       let lessonInfo = {}
       courses.map((course) => {
         if (course.courseShortName === lessonShortName) {
@@ -150,7 +172,7 @@ export default function TableBody(props) {
     <div className='table-body-list-container'>
       <ul className='table-body-list' onTouchStart={handleTouchStart} onMouseDown={handleMouseDown} ref={tableBodyListRef}>
         {
-          lessons.map((weekLesson) => {
+          aLessons.map((weekLesson) => {
             return (
               <li className='table-body-container' key={nanoid()}>
                 <div className='table-body'>
@@ -190,7 +212,7 @@ export default function TableBody(props) {
                         weekLesson.map((dayLesson) => {
                           return dayLesson.morningLessons.map((lesson) => {
                             return (
-                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom, lesson.lessonTime)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} day-lesson-${lesson.lessonLastNum}`}>
+                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom, lesson.lessonTime)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} day-lesson-${lesson.lessonLastNum} color-${lesson.color}`}>
                                 <span>@{lesson.lessonRoom}</span><br /><span>{lesson.lessonName}</span>
                               </li>
                             )
@@ -203,7 +225,7 @@ export default function TableBody(props) {
                         weekLesson.map((dayLesson) => {
                           return dayLesson.noonLessons.map((lesson) => {
                             return (
-                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom, lesson.lessonTime)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} day-lesson-${lesson.lessonLastNum}`}>
+                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom, lesson.lessonTime)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} day-lesson-${lesson.lessonLastNum} color-${lesson.color}`}>
                                 <span>@{lesson.lessonRoom}</span><br /><span>{lesson.lessonName}</span>
                               </li>
                             )
@@ -216,7 +238,7 @@ export default function TableBody(props) {
                         weekLesson.map((dayLesson) => {
                           return dayLesson.nightLessons.map((lesson) => {
                             return (
-                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom, lesson.lessonTime)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} night-lesson-${lesson.lessonLastNum}`}>
+                              <li onClick={showLessonInfo(lesson.lessonShortName, lesson.lessonRoom, lesson.lessonTime)} key={nanoid()} className={`lesson ${isLesson(lesson.lessonShortName) ? '' : 'lesson-none'} night-lesson-${lesson.lessonLastNum} color-${lesson.color}`}>
                                 <span>@{lesson.lessonRoom}</span><br /><span>{lesson.lessonName}</span>
                               </li>
                             )
