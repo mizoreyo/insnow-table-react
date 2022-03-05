@@ -17,6 +17,7 @@ export default function TableBody(props) {
   const indragRef = React.useRef()
   const lastXRef = React.useRef()
   const weekNumRef = React.useRef()
+  const pageNumRef = React.useRef()
   // transform正则表达式ref
   const tfRegxRef = React.useRef()
   tfRegxRef.current = /translateX\(([-0-9]+)px\)/
@@ -52,6 +53,7 @@ export default function TableBody(props) {
   }, [lessons])
 
   React.useEffect(() => {
+    pageNumRef.current = page.pageNum
     if (page.shouldSlide) {
       const tblWidth = tableBodyListRef.current.clientWidth
       tableBodyListRef.current.style.transform = `translateX(${-(page.pageNum) * tblWidth}px)`
@@ -155,10 +157,12 @@ export default function TableBody(props) {
       let stayPageNum = -(transformDis / tblWidth).toFixed(0)
       tableBodyListRef.current.style.transition = '0.5s'
       tableBodyListRef.current.style.transform = `translateX(${-(stayPageNum) * tblWidth}px)`
-      setPage({
-        pageNum: stayPageNum,
-        shouldSlide: false
-      })
+      if (pageNumRef.current === stayPageNum) { } else {
+        setPage({
+          pageNum: stayPageNum,
+          shouldSlide: false
+        })
+      }
     }
   }
 
