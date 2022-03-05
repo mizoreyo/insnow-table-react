@@ -7,7 +7,7 @@ export default function TableBody(props) {
 
   const [aLessons, setALessons] = React.useState([])
   // props
-  const { tableData, pageNum, setPageNum, setLessonInfo } = props
+  const { tableData, page, setPage, setLessonInfo } = props
   const { lessons, courses } = tableData
 
   // DOM ref
@@ -17,7 +17,6 @@ export default function TableBody(props) {
   const indragRef = React.useRef()
   const lastXRef = React.useRef()
   const weekNumRef = React.useRef()
-  const pageNumRef = React.useRef()
   // transform正则表达式ref
   const tfRegxRef = React.useRef()
   tfRegxRef.current = /translateX\(([-0-9]+)px\)/
@@ -53,10 +52,11 @@ export default function TableBody(props) {
   }, [lessons])
 
   React.useEffect(() => {
-    const tblWidth = tableBodyListRef.current.clientWidth
-    tableBodyListRef.current.style.transform = `translateX(${-(pageNum) * tblWidth}px)`
-    pageNumRef.current = pageNum
-  }, [pageNum])
+    if (page.shouldSlide) {
+      const tblWidth = tableBodyListRef.current.clientWidth
+      tableBodyListRef.current.style.transform = `translateX(${-(page.pageNum) * tblWidth}px)`
+    }
+  }, [page])
 
   function isLesson(shortName) {
     if (shortName === '无课') {
@@ -154,11 +154,11 @@ export default function TableBody(props) {
     const tblWidth = tableBodyListRef.current.clientWidth
     let stayPageNum = -(transformDis / tblWidth).toFixed(0)
     tableBodyListRef.current.style.transition = '0.5s'
-    if (pageNumRef.current == stayPageNum) {
-      tableBodyListRef.current.style.transform = `translateX(${-(stayPageNum) * tblWidth}px)`
-    } else {
-      setPageNum(stayPageNum)
-    }
+    tableBodyListRef.current.style.transform = `translateX(${-(stayPageNum) * tblWidth}px)`
+    setPage({
+      pageNum: stayPageNum,
+      shouldSlide: false
+    })
   }
 
   function handleTouchStart(event) {

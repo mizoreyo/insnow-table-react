@@ -13,7 +13,10 @@ export default function Table() {
     courses: [],
     lessons: []
   })
-  const [pageNum, setPageNum] = React.useState(0)
+  const [page, setPage] = React.useState({
+    pageNum: 0,
+    shouldSlide: true
+  })
   const [lessonInfo, setLessonInfo] = React.useState({
     isInfoShow: false,
     lessonName: "游戏程序设计",
@@ -36,7 +39,10 @@ export default function Table() {
         const todayDate = new Date()
         const startDate = new Date(response.data.startTime)
         const whatWeek = Math.floor((todayDate - startDate) / 604800000)
-        setPageNum(whatWeek)
+        setPage({
+          pageNum: whatWeek,
+          shouldSlide: true
+        })
       })
       .catch((error) => {
         console.error(error);
@@ -115,8 +121,8 @@ export default function Table() {
           </ul>
         </div>
       </div>
-      <TableHeader lessons={tableData.lessons} pageNum={pageNum} setPageNum={setPageNum} />
-      <TableBody tableData={tableData} pageNum={pageNum} setPageNum={setPageNum} setLessonInfo={setLessonInfo} />
+      <TableHeader lessons={tableData.lessons} page={page} setPage={setPage} />
+      <TableBody tableData={tableData} page={page} setPage={setPage} setLessonInfo={setLessonInfo} />
     </div>
   )
 }

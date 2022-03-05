@@ -4,30 +4,39 @@ import './index.css'
 
 export default function TableHeader(props) {
 
-  const { lessons, pageNum, setPageNum } = props
+  const { lessons, page, setPage } = props
 
   function handleOnChange(event) {
-    setPageNum(event.target.value)
+    setPage({
+      pageNum: event.target.value,
+      shouldSlide: true
+    })
   }
 
   function next() {
-    if (pageNum === lessons.length - 1) { } else {
-      setPageNum(pageNum + 1)
+    if (page.pageNum === lessons.length - 1) { } else {
+      setPage({
+        pageNum: page.pageNum + 1,
+        shouldSlide: true
+      })
     }
   }
 
   function last() {
-    if (pageNum === 0) { } else {
-      setPageNum(pageNum - 1)
+    if (page.pageNum === 0) { } else {
+      setPage({
+        pageNum: page.pageNum - 1,
+        shouldSlide: true
+      })
     }
   }
 
   return (
     <div className='table-header'>
-      <button className='header-button header-back' onClick={last} onMouseUp={event => event.stopPropagation()} onTouchEnd={event=>event.stopPropagation()}>
+      <button className='header-button header-back' onClick={last} onMouseUp={event => event.stopPropagation()} onTouchEnd={event => event.stopPropagation()}>
         <i className='iconfont icon-xiangzuojiantou'></i>
       </button>
-      <select className='header-button header-week-select' value={pageNum} onChange={handleOnChange} onMouseUp={event => event.stopPropagation()} onTouchEnd={event => event.stopPropagation()}>
+      <select className='header-button header-week-select' value={page.pageNum} onChange={handleOnChange} onMouseUp={event => event.stopPropagation()} onTouchEnd={event => event.stopPropagation()}>
         {
           lessons.map((weekLesson, index) => {
             return <option key={index} value={index}>第 {index + 1} 周</option>
