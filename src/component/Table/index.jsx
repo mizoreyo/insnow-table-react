@@ -45,7 +45,7 @@ export default function Table() {
 
   return (
     <div className='table'>
-      <div className='lesson-info-container' style={lessonInfo.isInfoShow ? {} : { top: '100%' }} onClick={closeInfo}>
+      <div className='lesson-info-container' style={lessonInfo.isInfoShow ? { transform: 'translateY(-100%)' } : {}} onClick={closeInfo}>
         <div className='lesson-info'>
           <div className='lesson-info-close'><i className='iconfont icon-xiajiantou'></i></div>
           <ul className='lesson-info-list' onClick={(event) => { event.stopPropagation() }}>
