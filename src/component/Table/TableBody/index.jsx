@@ -18,6 +18,9 @@ export default function TableBody(props) {
   const lastXRef = React.useRef()
   const weekNumRef = React.useRef()
   const pageNumRef = React.useRef()
+  // transform正则表达式ref
+  const tfRegxRef = React.useRef()
+  tfRegxRef.current = /translateX\(([-0-9]+)px\)/
 
   React.useEffect(() => {
     function addColor(lesson) {
@@ -51,7 +54,7 @@ export default function TableBody(props) {
 
   React.useEffect(() => {
     const tblWidth = tableBodyListRef.current.clientWidth
-    tableBodyListRef.current.style.left = -(pageNum) * tblWidth + 'px'
+    tableBodyListRef.current.style.transform = `translateX(${-(pageNum) * tblWidth}px)`
     pageNumRef.current = pageNum
   }, [pageNum])
 
@@ -69,10 +72,7 @@ export default function TableBody(props) {
 
   function showLessonInfo(lessonShortName, lessonRoom, lessonTime) {
     return () => {
-      if (lessonShortName === '无课') {
-        return
-      }
-      let lessonInfo = {}
+      let lessonInfo = { lessonName: undefined }
       courses.map((course) => {
         if (course.courseShortName === lessonShortName) {
           lessonInfo.lessonName = course.courseName
@@ -80,9 +80,12 @@ export default function TableBody(props) {
           lessonInfo.lessonHour = course.courseHour
           lessonInfo.lessonCredit = course.courseCredit
           lessonInfo.lessonRemark = course.courseRemark
-          console.log(1);
         }
       })
+      if (typeof (lessonInfo.lessonName) === 'undefined') {
+        return
+      }
+      console.log(lessonInfo);
       lessonInfo.lessonRoom = lessonRoom
       lessonInfo.lessonTime = lessonTime
       lessonInfo.isInfoShow = true
@@ -124,23 +127,35 @@ export default function TableBody(props) {
       // 鼠标距离上一个位置的距离
       const deltaX = currentX - getLastX()
       setLastX(currentX)
-      let offsetLeft = tableBodyListRef.current.offsetLeft
-      offsetLeft += deltaX
+      let transformMatch = tableBodyListRef.current.style.transform.match(tfRegxRef.current)
+      let transformDis
+      if (transformMatch === null) {
+        transformDis = 0
+      } else {
+        transformDis = parseInt(transformMatch[1])
+      }
+      transformDis += deltaX
       const tblWidth = tableBodyListRef.current.clientWidth
-      if (offsetLeft >= 0.2 * tblWidth || offsetLeft <= -(getWeekNum() - 0.8) * tblWidth) { } else {
-        tableBodyListRef.current.style.left = offsetLeft + 'px'
+      if (transformDis >= 0.2 * tblWidth || transformDis <= -(getWeekNum() - 0.8) * tblWidth) { } else {
+        tableBodyListRef.current.style.transform = `translateX(${transformDis}px)`
       }
     }
   }
 
   function handleMouseUp() {
     setIndrag(false)
-    const offsetLeft = tableBodyListRef.current.offsetLeft
+    let transformMatch = tableBodyListRef.current.style.transform.match(tfRegxRef.current)
+    let transformDis
+    if (transformMatch === null) {
+      transformDis = 0
+    } else {
+      transformDis = parseInt(transformMatch[1])
+    }
     const tblWidth = tableBodyListRef.current.clientWidth
-    let stayPageNum = -(offsetLeft / tblWidth).toFixed(0)
+    let stayPageNum = -(transformDis / tblWidth).toFixed(0)
     tableBodyListRef.current.style.transition = '0.5s'
     if (pageNumRef.current == stayPageNum) {
-      tableBodyListRef.current.style.left = -(stayPageNum) * tblWidth + 'px'
+      tableBodyListRef.current.style.transform = `translateX(${-(stayPageNum) * tblWidth}px)`
     } else {
       setPageNum(stayPageNum)
     }
@@ -157,13 +172,19 @@ export default function TableBody(props) {
     if (getIndrag()) {
       const currentX = event.changedTouches[0].clientX
       // 鼠标距离上一个位置的距离
-      const deltaX = currentX - getLastX()
+      const deltaX = parseInt(currentX - getLastX())
       setLastX(currentX)
-      let offsetLeft = tableBodyListRef.current.offsetLeft
-      offsetLeft += deltaX
+      let transformMatch = tableBodyListRef.current.style.transform.match(tfRegxRef.current)
+      let transformDis
+      if (transformMatch === null) {
+        transformDis = 0
+      } else {
+        transformDis = parseInt(transformMatch[1])
+      }
+      transformDis += deltaX
       const tblWidth = tableBodyListRef.current.clientWidth
-      if (offsetLeft >= 0.2 * tblWidth || offsetLeft <= -(getWeekNum() - 0.8) * tblWidth) { } else {
-        tableBodyListRef.current.style.left = offsetLeft + 'px'
+      if (transformDis >= 0.2 * tblWidth || transformDis <= -(getWeekNum() - 0.8) * tblWidth) { } else {
+        tableBodyListRef.current.style.transform = `translateX(${transformDis}px)`
       }
     }
   }
