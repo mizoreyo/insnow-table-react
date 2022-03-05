@@ -85,7 +85,6 @@ export default function TableBody(props) {
       if (typeof (lessonInfo.lessonName) === 'undefined') {
         return
       }
-      console.log(lessonInfo);
       lessonInfo.lessonRoom = lessonRoom
       lessonInfo.lessonTime = lessonTime
       lessonInfo.isInfoShow = true
@@ -143,22 +142,24 @@ export default function TableBody(props) {
   }
 
   function handleMouseUp() {
-    setIndrag(false)
-    let transformMatch = tableBodyListRef.current.style.transform.match(tfRegxRef.current)
-    let transformDis
-    if (transformMatch === null) {
-      transformDis = 0
-    } else {
-      transformDis = parseInt(transformMatch[1])
+    if (getIndrag()) {
+      setIndrag(false)
+      let transformMatch = tableBodyListRef.current.style.transform.match(tfRegxRef.current)
+      let transformDis
+      if (transformMatch === null) {
+        transformDis = 0
+      } else {
+        transformDis = parseInt(transformMatch[1])
+      }
+      const tblWidth = tableBodyListRef.current.clientWidth
+      let stayPageNum = -(transformDis / tblWidth).toFixed(0)
+      tableBodyListRef.current.style.transition = '0.5s'
+      tableBodyListRef.current.style.transform = `translateX(${-(stayPageNum) * tblWidth}px)`
+      setPage({
+        pageNum: stayPageNum,
+        shouldSlide: false
+      })
     }
-    const tblWidth = tableBodyListRef.current.clientWidth
-    let stayPageNum = -(transformDis / tblWidth).toFixed(0)
-    tableBodyListRef.current.style.transition = '0.5s'
-    tableBodyListRef.current.style.transform = `translateX(${-(stayPageNum) * tblWidth}px)`
-    setPage({
-      pageNum: stayPageNum,
-      shouldSlide: false
-    })
   }
 
   function handleTouchStart(event) {
